@@ -1,0 +1,213 @@
+[
+    {
+        "newarrival": [
+            {
+                "postId": 1,
+                "id": 1,
+                "name": "Casual",
+                "title": "T-SHIRT WITH TAPE DETAILS",
+                "price": 120,
+                "rating": 4.5,
+                "image": "/publicimages/blackShirt.svg"
+            },
+            {
+                "id": 2,
+                "postId": 1,
+                "name": "Casual",
+                "title": "SKINNY FIT JEANS",
+                "price": 240,
+                "oldPrice": "$260",
+                "discount": "-20%",
+                "rating": 3.5,
+                "image": "/publicimages/jeans.svg"
+            },
+            {
+                "id": 3,
+                "postId": 1,
+                "name": "Casual",
+                "title": "CHECKERED SHIRT",
+                "price": 180,
+                "rating": 4.5,
+                "image": "/publicimages/checkedShirt.svg"
+            },
+            {
+                "id": 4,
+                "postId": 1,
+                "name": "Casual",
+                "title": "SLEEVE STRIPED T-SHIRT",
+                "price": 130,
+                "oldPrice": "$160",
+                "discount": "-30%",
+                "rating": 4.5,
+                "image": "/publicimages/TShirt.svg"
+            }
+        ]
+    },
+    {
+        "topselling": [
+            {
+                "id": 5,
+                "postId": 1,
+                "title": "VERTICAL STRIPED SHIRT",
+                "price": 212,
+                "oldPrice": "$232",
+                "discount": "-20%",
+                "rating": 5.0,
+                "image": "/publicimages/vertical.svg"
+            },
+            {
+                "id": 6,
+                "postId": 1,
+                "title": "COURAGE GRAPHIC T-SHIRT",
+                "price": 145,
+                "rating": 4.0,
+                "image": "/publicimages/grapicTshirt.svg"
+            },
+            {
+                "id": 7,
+                "postId": 1,
+                "title": "LOOSE FIT BERMUDA SHORTS",
+                "price": 80,
+                "rating": 3.0,
+                "image": "/publicimages/short.svg"
+            },
+            {
+                "id": 8,
+                "postId": 1,
+                "title": "FADED SKINNY JEANS",
+                "price": 210,
+                "rating": 4.5,
+                "image": "/publicimages/skinny.svg"
+            }
+        ]
+    },
+    {
+        "dressStyle": [
+            {
+                "id": 9,
+                "postId": 1,
+                "name": "Casual",
+                "image": "/publicimages/casual.svg"
+            },
+            {
+                "id": 10,
+                "postId": 2,
+                "name": "Formal",
+                "image": "/publicimages/formal.svg"
+            },
+            {
+                "id": 11,
+                "postId": 3,
+                "name": "Party",
+                "image": "/publicimages/party.svg"
+            },
+            {
+                "id": 12,
+                "postId": 4,
+                "name": "Gym",
+                "image": "/publicimages/gym.svg"
+            }
+        ]
+    },
+    {
+        "productDetails": [
+            {
+                "id": 1,
+                "name": "T-Shirt",
+                "title": "One Life Graphic T shirt",
+                "price": "$120",
+                "oldPrice": "$300",
+                "discount": "-40%",
+                "rating": 4.5,
+                "color": "Brown",
+                "image": "/publicimages/Tshirt2.svg",
+                "image2": "/publicimages/Tshirt2.svg",
+                "image3": "/publicimages/Tshirt3.svg",
+                "image4": "/publicimages/Tshirt4.svg",
+                "para": "This graphic t-shirt which is perfect for any occasion. Crafted from a soft and breathable fabric, it offers superior comfort and style."
+            },
+            {
+                "id": 2,
+                "name": "Jeans",
+                "title": "One Life Graphic Jeans",
+                "price": "$240",
+                "oldPrice": "$300",
+                "discount": "-40%",
+                "rating": 4.5,
+                "color": "Blue",
+                "image2": "/publicimages/jeans3.png",
+                "image3": "/publicimages/jeans2.png",
+                "image4": "/publicimages/jeans4.png",
+                "para": "This graphic t-shirt which is perfect for any occasion. Crafted from a soft and breathable fabric, it offers superior comfort and style."
+            },
+            {
+                "id": 3,
+                "name": "Dressing Shirt",
+                "title": "One Life Graphic Dressing Shirt",
+                "price": "$180",
+                "oldPrice": "$300",
+                "discount": "-40%",
+                "rating": 5,
+                "color": "Red",
+                "image2": "/publicimages/checked2.png",
+                "image3": "/publicimages/checked3.png",
+                "image4": "/publicimages/checked4.png",
+                "para": "This graphic t-shirt which is perfect for any occasion. Crafted from a soft and breathable fabric, it offers superior comfort and style."
+            },
+            {
+                "id": 4,
+                "name": "Shirt",
+                "title": "One Life Graphic Shirts",
+                "price": "$130",
+                "oldPrice": "$300",
+                "discount": "-40%",
+                "rating": 5,
+                "color": "Orange",
+                "image2": "/publicimages/sleeve2.png",
+                "image3": "/publicimages/sleeve3.png",
+                "image4": "/publicimages/sleeve4.png",
+                "para": "This graphic t-shirt which is perfect for any occasion. Crafted from a soft and breathable fabric, it offers superior comfort and style."
+            }
+        ]
+    },
+    {
+        "favrite": [
+            {
+                "id": 17,
+                "postId": 1,
+                "title": "Polo with Contrast Trims",
+                "price": 212,
+                "oldPrice": "$242",
+                "discount": "-20%",
+                "rating": 4,
+                "image": "/publicimages/poloGreen.svg"
+            },
+            {
+                "id": 18,
+                "postId": 1,
+                "title": "Gradient Graphic T-shirt",
+                "price": 145,
+                "rating": 3.5,
+                "image": "/publicimages/gardient.svg"
+            },
+            {
+                "id": 19,
+                "postId": 1,
+                "title": "Polo with Tipping Details",
+                "price": 180,
+                "rating": 4.5,
+                "image": "/publicimages/polo.svg"
+            },
+            {
+                "id": 20,
+                "postId": 1,
+                "title": "Black Striped T-shirt",
+                "price": 120,
+                "rating": 5,
+                "oldPrice": "$150",
+                "discount": "-30%",
+                "image": "/publicimages/BlackStripe.svg"
+            }
+        ]
+    }
+]
